@@ -18,4 +18,6 @@
 
 ## ScreeShot
 
- <img align="center" alt="screenshot" src="https://github.com/Xebache/DesignPatterns/blob/main/docs/board1.png" width="750">
+ <div  align="center">
+    <img alt="screenshot" src="https://github.com/Xebache/DesignPatterns/blob/main/docs/board1.png" width="750">
+ </div>
