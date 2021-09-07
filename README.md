@@ -10,6 +10,7 @@
  `JavaFx` Trello-like application.
 
  This application was developed in an academic course during my second year of the bachelor in computed science at EPFC.
+ 
  `Java` and `JavaFx` are an excuse; the true purposes of this exercise are the design patterns: MVVM, command pattern, DAO pattern, repository pattern, ... 
 
 ## Description
