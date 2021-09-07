@@ -25,5 +25,5 @@
  ## Class diagram
 
  <div align="center"> 
-    <img alt="diagram" src="https://github.com/Xebache/DesignPatterns/blob/main/docs/Class%20Diagram.pdf" width="800">
+    <a href="https://github.com/Xebache/DesignPatterns/blob/main/docs/Class%20Diagram.pdf">link to diagram<a>
  </div>
