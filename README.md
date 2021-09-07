@@ -18,6 +18,12 @@
 
 ## ScreeShot
 
- <div  align="center">
-    <img alt="screenshot" src="https://github.com/Xebache/DesignPatterns/blob/main/docs/board1.png" width="750">
+ <div align="center">
+    <img alt="screenshot" src="https://github.com/Xebache/DesignPatterns/blob/main/docs/board1.png" width="500">
+ </div>
+
+ ## Class diagram
+
+ <div align="center"> 
+    <img alt="diagram" src="https://github.com/Xebache/DesignPatterns/blob/main/docs/Class%20Diagram.pdf" width="800">
  </div>
