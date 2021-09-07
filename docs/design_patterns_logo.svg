@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="34.382088mm"
+   height="38.927032mm"
+   viewBox="0 0 34.382088 38.927032"
+   version="1.1"
+   id="svg7613"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="design_patterns_logo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7615"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.5554293"
+     inkscape:cx="43.39638"
+     inkscape:cy="60.754931"
+     inkscape:window-width="1834"
+     inkscape:window-height="1081"
+     inkscape:window-x="226"
+     inkscape:window-y="280"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs7610" />
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-0.00365556,-0.26845778)">
+    <path
+       id="path5789-73-0-5-2"
+       style="fill:#000000;fill-opacity:1;stroke:#00ffff;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 17.226566,39.195491 34.364451,29.053097 34.385741,9.9962283 17.162801,0.26845835 0.19501806,9.9005433 0.00365606,29.467721 Z"
+       sodipodi:nodetypes="ccccccc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.25px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.198437"
+       x="7.4988136"
+       y="21.262899"
+       id="text8497"><tspan
+         sodipodi:role="line"
+         id="tspan8495"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.198437"
+         x="7.4988136"
+         y="21.262899">DESIGN</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.93747px;line-height:1.25;font-family:sans-serif;fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:0.198437"
+       x="3.9266546"
+       y="15.139189"
+       id="text13617"><tspan
+         sodipodi:role="line"
+         id="tspan13615"
+         style="fill:#00ffff;fill-opacity:1;stroke-width:0.198437"
+         x="3.9266546"
+         y="15.139189">JavaFx</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.25px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.198437"
+       x="4.1818123"
+       y="27.386621"
+       id="text27801"><tspan
+         sodipodi:role="line"
+         id="tspan27799"
+         style="stroke-width:0.198437"
+         x="4.1818123"
+         y="27.386621">PATTERNS</tspan></text>
+  </g>
+</svg>
