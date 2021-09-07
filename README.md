@@ -24,6 +24,4 @@
 
  ## Class diagram
 
- <div align="center"> 
-    <a href="https://github.com/Xebache/DesignPatterns/blob/main/docs/Class%20Diagram.pdf">link to diagram<a>
- </div>
+ <a href="https://github.com/Xebache/DesignPatterns/blob/main/docs/Class%20Diagram.pdf">link to diagram<a>
